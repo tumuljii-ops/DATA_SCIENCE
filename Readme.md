@@ -1,3 +1,4 @@
+                       QUICK REVISION RESOURCE 
 """ This repo is created by me to learn the basics of AI ,this repo contains 
     
     PYTHON,NUMPY ,PANDAS,SEABORN ,and in future if i get some more resource in future
